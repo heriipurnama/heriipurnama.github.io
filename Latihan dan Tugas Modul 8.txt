@@ -1,0 +1,4 @@
+1. Apa perbedaan perintah vi dan cat ?
+2. Mejelaskan secara detail, perintah-perintah yang telah anda jalankan dan contoh-contoh yang lain (jika memungkinkan).
+3. Carilah perintah-perintah dalam editor vi yang lain dan jelaskan fungsinya, selain yang sudah diparktikan pada modul ini (minimal 3).
+
