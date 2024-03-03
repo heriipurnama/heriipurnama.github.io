@@ -1,2 +1,2 @@
-# www.heriipurnama.ga
+# www.heriipurnama.rumahinformatika.com
 
